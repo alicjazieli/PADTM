@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="moj_tekst2">Settings</string>
+    <string name="moj_tekst3">Colors</string>
+    <string name="moj_tekst4">Profile</string>
+    <string name="moj_tekst5">News</string>
+    <string name="moj_tekst6">Photos</string>
+    <string name="moj_tekst">Hello World</string>
+</resources>

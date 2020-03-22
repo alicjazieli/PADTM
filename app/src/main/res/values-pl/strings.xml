@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Hello World</string>
-    <string name="moj_tekst">Witaj Swiecie Nasz!</string>
+    <string name="app_name">Witaj świecie</string>
     <string name="moj_tekst2">Ustawienia</string>
     <string name="moj_tekst3">Kolory</string>
     <string name="moj_tekst4">Profil</string>
     <string name="moj_tekst5">Wiadomości</string>
     <string name="moj_tekst6">Zdjęcia</string>
+    <string name="moj_tekst">Witaj Swiecie Nasz!</string>
 </resources>
